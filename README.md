@@ -51,7 +51,7 @@ The goal is to reduce tool-hopping and help people stay in flow — whether you'
 
 ## Beta Access
 
-We're currently in private beta. To request access:
+We're currently in private beta. To request access (or give feedback after given access!!):
 - Email us at [kittohq@gmail.com]
 - Include your name and interest in the platform
 
