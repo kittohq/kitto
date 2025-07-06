@@ -13,9 +13,7 @@
 
 ## About Kitto
 
-Kitto is an innovative online learning platform designed to [your description here].
-
-I’ve been building a Mac app to help stay focused while working, without constantly switching between windows or tools.
+Kitto is mac productivity app that helps you stay focused while working, without constantly switching between different apps.
 
 Here's a screenshot:
 
@@ -23,7 +21,7 @@ https://imgur.com/a/ke5HMoM
 
 It’s still in beta, but here’s what it currently does:
 
-Core features
+**Core features**
 
 Snap widgets that give you a quick glance at stock tickers, your calendar, timezones, and Gmail — all in one screen
 
@@ -37,9 +35,9 @@ Built-in Juptyer Lab widget: defaults to dark theme but can be toggled.
 
 Dashboard state: once you save the dashboard state, it will prompt if you want to set as default. It saves positions and you can save as many dashboards as you want.
 
-Latest features:
+**Latest features:**
 
-each terminal maintains its own history. I'd consider enhanced features like "most common commands or (cd-ed) paths".
+Each terminal maintains its own history. I'd consider enhanced features like "most common commands or (cd-ed) paths".
 
 Stocks and time zones can be updated in the UI, and saves in the Dashboard state.
 
@@ -52,7 +50,7 @@ We're currently in private beta. To request access:
 - Include your name and interest in the platform
 
 
-Upcoming Features:
+**Upcoming Features:**
 - ML on bash history to suggest next commands
 
 ---
