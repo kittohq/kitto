@@ -9,6 +9,12 @@
   </p>
 </div>
 
+## Kitto - Beta Testing
+
+⚠️ This is beta software for invited testers only.
+
+Not ready for general use. Please don't share publicly yet.
+
 ---
 
 ## About Kitto
