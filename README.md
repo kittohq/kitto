@@ -21,7 +21,7 @@ https://imgur.com/a/ke5HMoM
 
 It’s still in beta, but here’s what it currently does:
 
-**Core features**
+**Core features:**
 
 Snap widgets that give you a quick glance at stock tickers, your calendar, timezones, and Gmail — all in one screen
 
