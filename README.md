@@ -2,7 +2,6 @@
 <div align="center">
   <img src="assets/kitto-logo.png" alt="Kitto" width="200">
   
-  <h1>KITTO</h1>
   <p>🎓 Mac Productivity App</p>
   
   <p>
@@ -49,10 +48,11 @@ The goal is to reduce tool-hopping and help people stay in flow — whether you'
 ## Beta Access
 
 We're currently in private beta. To request access:
-- Email us at [kittohq@gmail.com][
+- Email us at [kittohq@gmail.com]
 - Include your name and interest in the platform
 
 
+Upcoming Features:
 - ML on bash history to suggest next commands
 
 ---
