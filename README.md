@@ -116,6 +116,15 @@ The adaptive learning platform featured above - AI-powered education that adjust
 ### Kitto AIO (All-in-One Mac App)
 A powerful productivity app for Mac that helps you stay focused while working. [Download Kitto AIO](./install-kitto.sh)
 
+**Visual Preview:**
+
+<!-- Add screenshot here: ![Kitto AIO Interface](assets/kitto-aio-screenshot.png) -->
+[View Kitto AIO Screenshot](https://imgur.com/a/ke5HMoM)
+
+- All your productivity tools in one unified interface
+- Terminal and file browser side-by-side
+- Real-time widgets and dashboards
+
 **Kitto AIO Features:**
 - Snap widgets for stocks, calendar, timezones, and Gmail
 - Terminal ↔ File Browser integration
