@@ -6,17 +6,70 @@
   <p>🔵 🟦 📦 🤖 AI-Powered Adaptive Learning Platform</p>
   
   <p>
-    <a href="mailto:kittohq@gmail.com">Request Access</a>
+    <a href="mailto:kittohq@gmail.com">Request Access</a> | 
+    <a href="http://localhost:3000">Try Demo</a> |
+    <a href="#live-demo-ready">Quick Start</a>
   </p>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🔴 When You Struggle</strong><br/>
+        Score < 40%<br/>
+        ↓<br/>
+        Content Gets EASIER
+      </td>
+      <td align="center">
+        <strong>🟢 Perfect Zone</strong><br/>
+        Score 40-85%<br/>
+        ↓<br/>
+        Optimal Challenge
+      </td>
+      <td align="center">
+        <strong>🟣 When You Excel</strong><br/>
+        Score > 85%<br/>
+        ↓<br/>
+        Content Gets HARDER
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/kittohq/kitto-learn.git
+cd kitto-learn
+
+# Install dependencies
+npm install
+
+# Start the platform
+npm run dev
+
+# Open in browser
+open http://localhost:3000
+```
 
 ## About Kitto Learn
 
 **Kitto Learn** is an AI-powered adaptive learning platform that adjusts to your pace. Watch content get easier when you struggle, harder when you succeed.
 
-### 🚀 Live Demo Ready!
+### 🖥️ What You'll See
+
+When you visit the platform, you'll find:
+- **Robot mascot** with floating geometric shapes (the Kitto Learn character)
+- **Live demo cards** showing three adaptive scenarios
+- **Course selection** for Python Fundamentals and Statistics
+- **Real-time badges** that change based on your performance
+- **Clean interface** with blue gradients and modern design
+
+### <a name="live-demo-ready"></a>🎯 Live Demo Ready!
 
 Test our adaptive learning system with **Python Fundamentals** or **Statistics**:
 
