@@ -2,8 +2,8 @@
 <div align="center">
   <img src="assets/kitto-logo.png" alt="Kitto" width="200">
   
-  <h1>Kitto Learn</h1>
-  <p>🤖 AI-Powered Adaptive Learning Platform</p>
+  <h1>kitto<span style="color: #2563eb;">learn</span></h1>
+  <p>🔵 🟦 📦 🤖 AI-Powered Adaptive Learning Platform</p>
   
   <p>
     <a href="mailto:kittohq@gmail.com">Request Access</a>
@@ -14,28 +14,42 @@
 
 ## About Kitto Learn
 
-**Kitto Learn** is an AI-powered adaptive learning platform that personalizes education in real-time. Watch content dynamically adjust to your skill level - getting easier when you struggle, harder when you excel.
+**Kitto Learn** is an AI-powered adaptive learning platform that adjusts to your pace. Watch content get easier when you struggle, harder when you succeed.
 
-### 🎯 Live Demo Features
+### 🚀 Live Demo Ready!
 
-Experience adaptive learning with our interactive demo:
-- **Automatic Difficulty Adjustment**: Score below 40%? Content becomes simpler. Score above 85%? Content advances.
-- **Knowledge Gap Detection**: AI identifies what you're missing and creates personalized paths
-- **Non-Linear Navigation**: Jump to any topic - prerequisites are filled in automatically
-- **Real-Time Adaptation**: See difficulty badges change instantly based on your performance
+Test our adaptive learning system with **Python Fundamentals** or **Statistics**:
 
-### 🚀 Key Capabilities
+1. Click "Try Live Demo" and choose a course
+2. Navigate to any module and click "Take Assessment"
+3. Your score determines what happens next:
+   - **Score < 40%** → Content becomes EASIER (beginner level)
+   - **Score > 85%** → Content becomes HARDER (advanced level)
+   - **Score 40-85%** → Stay at current level
+4. Watch the difficulty badge change in real-time!
+5. See personalized content adapted to your level
 
-- **Personalized Learning Paths**: Content adapts to your pace and understanding
-- **Dynamic Assessments**: Questions adjust based on your demonstrated knowledge
-- **Multi-Level Content**: Beginner, intermediate, and advanced versions of every topic
-- **Progress Tracking**: Visual indicators show your mastery across concepts
-- **AI Tutoring**: Get personalized explanations when you need help
+### 📐 Adaptive Learning in Action
 
-### 📚 Available Demo Courses
+**When You Struggle (Score < 40%)**
+- Switch to simpler explanations
+- Add more examples and analogies
+- Break concepts into smaller steps
 
-- **Python Fundamentals**: 5 adaptive modules with real-time assessments
-- **Statistics**: Advanced course with prerequisite mapping and knowledge gap detection
+**Perfect Challenge Level (Score 40-85%)**
+- Content matches your pace
+- Balanced theory and practice
+- Steady skill progression
+
+**When You Excel (Score > 85%)**
+- Introduce advanced concepts
+- Add complex problem-solving
+- Explore edge cases & optimizations
+
+### 📚 Ready Courses for Demo
+
+- **Python Fundamentals**: 5 adaptive modules with assessments - Perfect for testing adaptive difficulty
+- **Statistics**: 5 comprehensive modules - Advanced course with prerequisites for testing knowledge gap detection
 
 ---
 
@@ -43,27 +57,36 @@ Experience adaptive learning with our interactive demo:
 
 **Kitto** is a suite of productivity tools designed to enhance learning and workflow efficiency. The Kitto ecosystem includes:
 
-### Kitto All-in-One App (Mac)
-A powerful productivity app for Mac that helps you stay focused while working. [Learn more about the all-in-one app](./install-kitto.sh)
+### Kitto Learn
+The adaptive learning platform featured above - AI-powered education that adjusts to your pace.
 
-**Features:**
+### Kitto AIO (All-in-One Mac App)
+A powerful productivity app for Mac that helps you stay focused while working. [Download Kitto AIO](./install-kitto.sh)
+
+**Kitto AIO Features:**
 - Snap widgets for stocks, calendar, timezones, and Gmail
 - Terminal ↔ File Browser integration
 - Quick file preview (PDFs, images, CSVs)
 - Built-in Jupyter Lab widget
 - Smart positioning and dashboard states
 
-The all-in-one app is currently in beta testing.
+Kitto AIO is currently in beta testing.
 
-## Beta Access
+### Additional Features
 
-We're currently in private beta. To request access (or give feedback after given access!!):
+**Knowledge Gap Detection**
+- AI identifies what you're missing and creates personalized learning paths
+
+**Non-Linear Navigation**
+- Jump to any topic - we'll fill in the prerequisites you need automatically
+
+---
+
+## Access & Contact
+
+For beta access to Kitto Learn or Kitto AIO:
 - Email us at [kittohq@gmail.com]
-- Include your name and interest in the platform
-
-
-**Upcoming Features:**
-- ML on bash history to suggest next commands
+- Include your name and which product you're interested in
 
 ---
 
