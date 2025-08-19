@@ -2,52 +2,58 @@
 <div align="center">
   <img src="assets/kitto-logo.png" alt="Kitto" width="200">
   
-  <p>🎓 Mac Productivity App</p>
+  <h1>Kitto Learn</h1>
+  <p>🤖 AI-Powered Adaptive Learning Platform</p>
   
   <p>
-    <a href="mailto:kittohq@gmail.com">Request Beta Access</a>
+    <a href="mailto:kittohq@gmail.com">Request Access</a>
   </p>
 </div>
 
-## Kitto - Beta Testing
+---
 
-⚠️ This is beta software for invited testers only.
+## About Kitto Learn
 
-Not ready for general use. Please don't share publicly yet.
+**Kitto Learn** is an AI-powered adaptive learning platform that personalizes education in real-time. Watch content dynamically adjust to your skill level - getting easier when you struggle, harder when you excel.
+
+### 🎯 Live Demo Features
+
+Experience adaptive learning with our interactive demo:
+- **Automatic Difficulty Adjustment**: Score below 40%? Content becomes simpler. Score above 85%? Content advances.
+- **Knowledge Gap Detection**: AI identifies what you're missing and creates personalized paths
+- **Non-Linear Navigation**: Jump to any topic - prerequisites are filled in automatically
+- **Real-Time Adaptation**: See difficulty badges change instantly based on your performance
+
+### 🚀 Key Capabilities
+
+- **Personalized Learning Paths**: Content adapts to your pace and understanding
+- **Dynamic Assessments**: Questions adjust based on your demonstrated knowledge
+- **Multi-Level Content**: Beginner, intermediate, and advanced versions of every topic
+- **Progress Tracking**: Visual indicators show your mastery across concepts
+- **AI Tutoring**: Get personalized explanations when you need help
+
+### 📚 Available Demo Courses
+
+- **Python Fundamentals**: 5 adaptive modules with real-time assessments
+- **Statistics**: Advanced course with prerequisite mapping and knowledge gap detection
 
 ---
 
 ## About Kitto
 
-Kitto is mac productivity app that helps you stay focused while working, without constantly switching between different apps.
+**Kitto** is a suite of productivity tools designed to enhance learning and workflow efficiency. The Kitto ecosystem includes:
 
-Here's a screenshot:
+### Kitto All-in-One App (Mac)
+A powerful productivity app for Mac that helps you stay focused while working. [Learn more about the all-in-one app](./install-kitto.sh)
 
-https://imgur.com/a/ke5HMoM
+**Features:**
+- Snap widgets for stocks, calendar, timezones, and Gmail
+- Terminal ↔ File Browser integration
+- Quick file preview (PDFs, images, CSVs)
+- Built-in Jupyter Lab widget
+- Smart positioning and dashboard states
 
-It’s still in beta, but here’s what it currently does:
-
-**Core features:**
-
-Snap widgets that give you a quick glance at stock tickers, your calendar, timezones, and Gmail — all in one screen
-
-Terminal ↔ File Browser integration: Open either side in the same location, jump between them easily
-
-Quick preview: Instantly peek into files in the browser without opening another app; this works for pdfs, jpegs, csvs, quite a bit of other extension file types.
-
-Smart positioning: It remembers where you left off — folders, tabs, layout — so you're not reorienting every time you return
-
-Built-in Juptyer Lab widget: defaults to dark theme but can be toggled.
-
-Dashboard state: once you save the dashboard state, it will prompt if you want to set as default. It saves positions and you can save as many dashboards as you want.
-
-**Latest features:**
-
-Each terminal maintains its own history. I'd consider enhanced features like "most common commands or (cd-ed) paths".
-
-Stocks and time zones can be updated in the UI, and saves in the Dashboard state.
-
-The goal is to reduce tool-hopping and help people stay in flow — whether you're coding, organizing files, or just checking something quickly.
+The all-in-one app is currently in beta testing.
 
 ## Beta Access
 
