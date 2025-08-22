@@ -6,9 +6,7 @@
   <p>🔵 🟦 📦 🤖 AI-Powered Adaptive Learning Platform</p>
   
   <p>
-    <a href="mailto:kittohq@gmail.com">Request Access</a> | 
-    <a href="http://localhost:3000">Try Demo</a> |
-    <a href="#live-demo-ready">Quick Start</a>
+    <a href="mailto:kittohq@gmail.com?subject=Request%20Demo%20Access%20for%20Kitto%20Learn">Request Demo Access</a>
   </p>
 </div>
 
@@ -39,23 +37,6 @@
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/kittohq/kitto-learn.git
-cd kitto-learn
-
-# Install dependencies
-npm install
-
-# Start the platform
-npm run dev
-
-# Open in browser
-open http://localhost:3000
-```
-
 ## About Kitto Learn
 
 **Kitto Learn** is an AI-powered adaptive learning platform that adjusts to your pace. Watch content get easier when you struggle, harder when you succeed.
@@ -69,7 +50,7 @@ When you visit the platform, you'll find:
 - **Real-time badges** that change based on your performance
 - **Clean interface** with blue gradients and modern design
 
-### <a name="live-demo-ready"></a>🎯 Live Demo Ready!
+### 🎯 Live Demo Ready!
 
 Test our adaptive learning system with **Python Fundamentals** or **Statistics**:
 
