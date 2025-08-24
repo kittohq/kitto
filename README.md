@@ -14,9 +14,7 @@
 
 Watch the Kitto Learn adaptive learning platform in action:
 
-[![Kitto Learn Demo](assets/kitto-logo.png)](https://github.com/kittohq/kitto/raw/main/assets/kitto-learn-demo.mp4)
-
-*Click the image above to download and watch the demo video (29MB)*
+https://github.com/kittohq/kitto/assets/kitto-demo-embed.mp4
 
 <div align="center">
   <table>
