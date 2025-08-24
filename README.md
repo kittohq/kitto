@@ -6,7 +6,8 @@
   <p>🔵 🟦 📦 🤖 AI-Powered Adaptive Learning Platform</p>
   
   <p>
-    <a href="mailto:kittohq@gmail.com?subject=Request%20Demo%20Access%20for%20Kitto%20Learn">Request Demo Access</a>
+    <a href="mailto:kittohq@gmail.com?subject=Request%20Demo%20Access%20for%20Kitto%20Learn">Request Demo Access</a> | 
+    <a href="https://github.com/kittohq/kitto/blob/main/assets/kitto-learn-demo.mp4?raw=true">Watch Demo Video</a>
   </p>
 </div>
 
