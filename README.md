@@ -2,7 +2,7 @@
 <div align="center">
   <img src="assets/kitto-logo.png" alt="Kitto" width="200">
   
-  <h1>kitto<span style="color: #2563eb;">learn</span></h1>
+  <h1>Kitto <span style="color: #2563eb;">Learn</span></h1>
   <p>🔵 🟦 📦 🤖 AI-Powered Adaptive Learning Platform</p>
   
   <p>
