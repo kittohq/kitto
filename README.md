@@ -1,6 +1,7 @@
 
 <div align="center">
-  <h1>🔷 Kitto <span style="color: #2563eb;">Learn</span></h1>
+  <img src="assets/kitto-learn-logo.png" alt="Kitto Learn" width="300">
+  <br><br>
   <p>🔵 🟦 📦 🤖 AI-Powered Adaptive Learning Platform</p>
   
   <p>
