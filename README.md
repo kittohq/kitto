@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/logo.png" alt="Kitto Learn" width="350">
+  <img src="assets/kitto-logo.jpg" alt="Kitto Learn" width="350">
   <br><br>
   <p>🔵 🟦 📦 🤖 AI-Powered Adaptive Learning Platform</p>
   
