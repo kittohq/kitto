@@ -12,11 +12,11 @@
 
 ## 📹 Demo Video
 
-Watch the Kitto Learn adaptive learning platform in action:
+Watch the Kitto Learn adaptive learning platform in action (click to watch full video):
 
-![Kitto Learn Demo](assets/kitto-demo.gif)
+[![Kitto Learn Demo](assets/kitto-demo.gif)](https://github.com/kittohq/kitto/raw/main/assets/kitto-learn-full-demo.mp4)
 
-[📥 Download Full Video (23MB)](https://github.com/kittohq/kitto/raw/main/assets/kitto-learn-full-demo.mp4)
+*Click the GIF above to download and watch the full demo video (23MB, 2:31 duration)*
 
 <div align="center">
   <table>
