@@ -56,18 +56,14 @@ Kitto develops innovative productivity tools designed to enhance your workflow a
 
 An AI-powered adaptive learning platform that adjusts to your pace, making learning more effective and personalized.
 
+**Visit [kittolearn.com](http://kittolearn.com) to explore the platform and watch demo videos.**
+
 ### Features
 
 - **Adaptive Difficulty** - Content automatically adjusts based on your performance
 - **Knowledge Gap Detection** - AI identifies what you're missing and fills the gaps
 - **Non-Linear Navigation** - Jump to any topic with automatic prerequisite filling
 - **Real-time Progress Tracking** - See your improvement with dynamic badges
-
-### 📹 Demo
-
-[![Kitto Learn Demo](assets/video-thumbnail.jpg)](https://youtu.be/hnbjVDErIc8)
-
-*▶️ Click to watch the Kitto Learn platform in action*
 
 ### How It Works
 
